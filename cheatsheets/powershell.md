@@ -9,22 +9,27 @@ About PowerShell
 
 *"PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project."* ( from the interview with Jeffrey Snover, PowerShell Inventor) 
 
-Why Learn PowerShell?
+<h2>Why Learn PowerShell?</h2>
 PowerShell is an essential tool for:
-Automating repetitive tasks.
-Managing and configuring systems.
-Working with files, processes, and services.
-Interacting with APIs and web services.
-Writing scripts to solve complex problems.
+<ol>
+<li>Automating repetitive tasks.</li>
+<li>Managing and configuring systems.</li>
+<li>Working with files, processes, and services.</li>
+<li>Interacting with APIs and web services.</li>
+<li>Writing scripts to solve complex problems.</li>
+</ol>
 
-PowerShell Features and Terms
-Cmdlets: Lightweight commands that perform specific functions.
-Scripting: Write and execute scripts, series of commands, to automate tasks.
-Pipeline: Chain commands together to pass data between them using |.
-Remote Management: Execute commands on remote systems.
-Modules: Extend functionality with additional cmdlets and scripts.
-Extensibility: Create custom functions, modules, and scripts.
-Cross-Platform: PowerShell Core runs on Windows, macOS, and Linux.
+<h2>PowerShell Features and Terms</h2>
+<ul>
+<li>Cmdlets: Lightweight commands that perform specific functions.</li>
+<li>Scripting: Write and execute scripts, series of commands, to automate tasks.</li>
+<li>Pipeline: Chain commands together to pass data between them using |.</li>
+<li>Remote Management: Execute commands on remote systems.</li>
+<li>Modules: Extend functionality with additional cmdlets and scripts.</li>
+<li>Extensibility: Create custom functions, modules, and scripts.</li>
+<li>Cross-Platform: PowerShell Core runs on Windows, macOS, and Linux.</li>
+</ul>
+
 
 PowerShell History
 
