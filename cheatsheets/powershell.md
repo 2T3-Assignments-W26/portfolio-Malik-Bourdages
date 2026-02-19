@@ -7,7 +7,7 @@ About PowerShell
 **PowerShell** is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the .NET framework, **PowerShell** is both a ***command-line tool*** and a ***scripting environment***, making it a versatile tool for programmers and system administrators.
 
 
-*"PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project."* ( from the interview with Jeffrey Snover, PowerShell Inventor) 
+*"PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project." ( from the interview with Jeffrey Snover, PowerShell Inventor)* 
 
 <h2>Why Learn PowerShell?</h2>
 PowerShell is an essential tool for:
@@ -31,19 +31,26 @@ PowerShell is an essential tool for:
 </ul>
 
 
-PowerShell History
+<h2>PowerShell History</h2>
 
-PowerShell Version Comparison
-Version:Release Year:Key Features                            
-1.0:2006:Initial release Windows XP SP2 and Windows Server 2003.
-2.0:2009:Introduced remote management and modules.
-5.1:2016:Last Windows-only version               
-6.0:2018:Known as PowerShell Core 6.0. First cross-platform version.
-7.0:2020:Unified Windows PowerShell and PowerShell Core, offering a modern, cross-platform experience.
+<h3>PowerShell Version Comparison</h3>
+<table>
+<tr>
+<th>Version</th><th>Release Year</th><th>Key Features</th>    
+</tr>
+                    
+<tr><td>1.0</td><td>2006</td><td>Initial release Windows XP SP2 and Windows Server 2003.</td></tr>
+<tr><td>2.0<td>2009</td><td>Introduced remote management and modules.</td></tr>
+<tr><td>5.1<td>2016</td><td>Last Windows-only version</td></tr>               
+<tr><td>6.0<td>2018</td><td>Known as PowerShell Core 6.0. First cross-platform version.</td></tr>
+<tr><td>7.0<td>2020</td><td>Unified Windows PowerShell and PowerShell Core, offering a modern, cross-platform experience.</td></tr>
+</table>
 
-Version Summary
-Windows PowerShell: Versions 1.0 to 5.1 (Windows-only).
-PowerShell Core: Versions 6.0 and above (cross-platform).
+<h3>Version Summary</h3>
+<ul>
+<li> **Windows PowerShell** : Versions 1.0 to 5.1 (Windows-only).</li>
+<li> **PowerShell Core** : Versions 6.0 and above (cross-platform).</li>
+</ul>
 
 
 PowerShell for Beginners
