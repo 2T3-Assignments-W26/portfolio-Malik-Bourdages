@@ -1,4 +1,4 @@
-<h1>PowerShell</h1>
+#PowerShell
 
 PowerShell Logo goes here
 
@@ -7,55 +7,52 @@ About PowerShell
 **PowerShell** is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the .NET framework, **PowerShell** is both a ***command-line tool*** and a ***scripting environment***, making it a versatile tool for programmers and system administrators.
 
 
-*"PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project." ( from the interview with Jeffrey Snover, PowerShell Inventor)* 
+>*"PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project." ( from the interview with Jeffrey Snover, PowerShell Inventor)* 
 
-<h2>Why Learn PowerShell?</h2>
+## Why Learn PowerShell?
 PowerShell is an essential tool for:
-<ol>
-<li>Automating repetitive tasks.</li>
-<li>Managing and configuring systems.</li>
-<li>Working with files, processes, and services.</li>
-<li>Interacting with APIs and web services.</li>
-<li>Writing scripts to solve complex problems.</li>
-</ol>
 
-<h2>PowerShell Features and Terms</h2>
-<ul>
-<li>Cmdlets: Lightweight commands that perform specific functions.</li>
-<li>Scripting: Write and execute scripts, series of commands, to automate tasks.</li>
-<li>Pipeline: Chain commands together to pass data between them using |.</li>
-<li>Remote Management: Execute commands on remote systems.</li>
-<li>Modules: Extend functionality with additional cmdlets and scripts.</li>
-<li>Extensibility: Create custom functions, modules, and scripts.</li>
-<li>Cross-Platform: PowerShell Core runs on Windows, macOS, and Linux.</li>
-</ul>
+1. Automating repetitive tasks.</li>
+2. Managing and configuring systems.</li>
+3. Working with files, processes, and services.</li>
+4. Interacting with APIs and web services.</li>
+5. Writing scripts to solve complex problems.</li>
 
 
-<h2>PowerShell History</h2>
+## PowerShell Features and Terms
 
-<h3>PowerShell Version Comparison</h3>
-<table>
-<tr>
-<th>Version</th><th>Release Year</th><th>Key Features</th>    
-</tr>
-                    
-<tr><td>1.0</td><td>2006</td><td>Initial release Windows XP SP2 and Windows Server 2003.</td></tr>
-<tr><td>2.0<td>2009</td><td>Introduced remote management and modules.</td></tr>
-<tr><td>5.1<td>2016</td><td>Last Windows-only version</td></tr>               
-<tr><td>6.0<td>2018</td><td>Known as PowerShell Core 6.0. First cross-platform version.</td></tr>
-<tr><td>7.0<td>2020</td><td>Unified Windows PowerShell and PowerShell Core, offering a modern, cross-platform experience.</td></tr>
-</table>
-
-<h3>Version Summary</h3>
-<ul>
-<li> **Windows PowerShell** : Versions 1.0 to 5.1 (Windows-only).</li>
-<li> **PowerShell Core** : Versions 6.0 and above (cross-platform).</li>
-</ul>
++ Cmdlets: Lightweight commands that perform specific functions.
++ Scripting: Write and execute scripts, series of commands, to automate tasks.
++ Pipeline: Chain commands together to pass data between them using |.
++ Remote Management: Execute commands on remote systems.
++ Modules: Extend functionality with additional cmdlets and scripts.
++ Extensibility: Create custom functions, modules, and scripts.
++ Cross-Platform: PowerShell Core runs on Windows, macOS, and Linux.
 
 
-PowerShell for Beginners
 
-Basic Commands to Get Started
+## PowerShell History
+
+### PowerShell Version Comparison
+
+|Version|Release Year|Key Features                                                                                 |  
+|-------|------------|---------------------------------------------------------------------------------------------|
+|1.0    |2006        |Initial release Windows XP SP2 and Windows Server 2003.                                      |
+|2.0    |2009        |Introduced remote management and modules.                                                    |
+|5.1    |2016        |Last Windows-only version                                                                    |
+|6.0    |2018        |Known as PowerShell Core 6.0. First cross-platform version.                                  |
+|7.0    |2020        |Unified Windows PowerShell and PowerShell Core, offering a modern, cross-platform experience.|
+
+### Version Summary
+
+ + Windows PowerShell : Versions 1.0 to 5.1 (Windows-only).
+ + PowerShell Core : Versions 6.0 and above (cross-platform).
+
+
+
+## PowerShell for Beginners
+
+### Basic Commands to Get Started
 
 Get-Command: Lists all available commands.
 Get-Help: Provides help information for commands.
@@ -64,7 +61,7 @@ Stop-Process: Stops a specific process.
 Set-Location: Changes the current directory (like cd in Command Prompt).
 New-Item: Creates a new file or directory.
 
-Example Script
+### Example Script
 
 Here’s a simple script to list all files in a directory and display their sizes:
 # Get all files in the current directory
