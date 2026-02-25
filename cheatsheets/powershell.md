@@ -1,6 +1,6 @@
 # PowerShell
 
-PowerShell Logo goes here
+![PowerShell](.\Powershell_5.0_icon.png)
 
 About PowerShell
 
@@ -89,7 +89,7 @@ When writing and debugging PowerShell scripts, using a dedicated editor can grea
   + Multi-tab interface for working with multiple scripts.
 + **Best for**: Beginners and users working on older versions of PowerShell.
 
-ISE Image goes here
+![ISE](PowerShell_5.0_icon.png)
 
 #### Visual Studio Code (VS Code)
 
